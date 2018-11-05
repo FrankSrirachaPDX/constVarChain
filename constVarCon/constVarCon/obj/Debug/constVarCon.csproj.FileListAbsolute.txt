@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\constVarCon\constVarCon\bin\Debug\constVarCon.exe.config
+C:\Users\Ryan\source\repos\constVarCon\constVarCon\bin\Debug\constVarCon.exe
+C:\Users\Ryan\source\repos\constVarCon\constVarCon\bin\Debug\constVarCon.pdb
+C:\Users\Ryan\source\repos\constVarCon\constVarCon\obj\Debug\constVarCon.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\source\repos\constVarCon\constVarCon\obj\Debug\constVarCon.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\constVarCon\constVarCon\obj\Debug\constVarCon.exe
+C:\Users\Ryan\source\repos\constVarCon\constVarCon\obj\Debug\constVarCon.pdb
